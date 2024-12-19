@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MongoNetCore": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
